@@ -28,7 +28,7 @@ python main.py
 ======================================================================
   STEAM AUTO FREE GAMES COLLECTOR
   • Client Steam Desktop : En cours d'exécution
-  • Compte Steam actif   : Connecté en tant que : chouchou14270
+  • Compte Steam actif   : Connecté en tant que : utilisateur
 ======================================================================
 
 [1] 🚀 Lancer / Vérifier le statut de Steam
